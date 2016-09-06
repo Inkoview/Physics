@@ -1,7 +1,7 @@
 # Site settings
 title: Emerald | A simple Jekyll blog
 description: "A minimal blog template, build with Jekyll."
-url: "http://inkoview.com/physics"
+url: "http://inkoview.github.io/physics"
 author:
   name: "Jacopo Rabolini"
   email: "hello@jacoporabolini.com"
